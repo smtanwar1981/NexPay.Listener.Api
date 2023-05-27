@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexPay.Listener.Api", "NexPay.Listener.Api\NexPay.Listener.Api.csproj", "{EF99796A-0DFB-4480-BD9A-FE21A26EBD16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Llistener.App", "Llistener.App\Llistener.App.csproj", "{1C0546FC-C06A-4ACD-9EB8-41F840BE2A40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF99796A-0DFB-4480-BD9A-FE21A26EBD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF99796A-0DFB-4480-BD9A-FE21A26EBD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF99796A-0DFB-4480-BD9A-FE21A26EBD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF99796A-0DFB-4480-BD9A-FE21A26EBD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0546FC-C06A-4ACD-9EB8-41F840BE2A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0546FC-C06A-4ACD-9EB8-41F840BE2A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0546FC-C06A-4ACD-9EB8-41F840BE2A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0546FC-C06A-4ACD-9EB8-41F840BE2A40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44D58F24-E1BA-488B-96E2-BDC4832566A1}
+	EndGlobalSection
+EndGlobal

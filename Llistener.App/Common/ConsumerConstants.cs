@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Llistener.App.Common
+{
+    public class ConsumerConstants
+    {
+        public const string HostName = "localhost";
+        public const string NewContractSubmittedMessage = "New Contract Submitted";
+        public const string PaymentQueueName = "NexPayPayment";
+        public const string RegisterQueueName = "NexPayUserRegister";
+    }
+}

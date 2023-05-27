@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bKNOKBOZb7tbUIc1VODrN1M8Pw7mFp0h7KQzGu6DOOo=",
+  "Source": "NexPay.Listener.Api",
+  "BasePath": "_content/NexPay.Listener.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
